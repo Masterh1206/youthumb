@@ -57,12 +57,10 @@ const Index = () => {
         >
           Download Thumbnails
         </button>
-        
       </div>
       <p className="description-text">
       Welcome to our YouTube Thumbnail Downloader. Seamlessly obtain high-quality YouTube video thumbnails with our user-friendly application. Download captivating thumbnails in various resolutions to enhance your online visibility. Start now with our Thumbnail Downloader, your key to optimizing your digital presence.
       </p>
-
       {thumbnailOptions.length > 0 && (
         <div className="mt-8">
           <h2 className="text-xl font-semibold mb-4">Thumbnail Options</h2>
