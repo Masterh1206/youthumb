@@ -42,7 +42,11 @@ input[type="text"] + button {
 .btn-blue:hover {
   background-color: #2680c5;
 }
-
+.description-text {
+  padding: 0.5rem;
+  text-align: center;
+  width: 42%;
+}
 /* Style the thumbnail options */
 .thumbnail-option {
   background-color: white;
